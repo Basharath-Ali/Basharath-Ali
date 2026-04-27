@@ -1,16 +1,42 @@
-## Hi there 👋
+# 🚀 Mohammed Basharath Ali – 3D Portfolio Website
 
-<!--
-**Basharath-Ali/Basharath-Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A premium, futuristic 3D portfolio website built to represent a Global Talent & Revenue Growth Strategist.
 
-Here are some ideas to get you started:
+This project transforms a traditional LinkedIn profile into a high-conversion digital brand experience using modern web technologies and immersive UI/UX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Key Highlights
+
+- ⚡ 3D interactive background using Three.js
+- 🎯 Smooth animations powered by Framer Motion
+- 🌙 Dark, modern UI with glassmorphism aesthetics
+- 📊 Experience-driven storytelling (not just resume display)
+- 🌍 Global positioning (US, Canada, Mexico recruitment focus)
+- 📱 Fully responsive design
+
+---
+
+## 🧠 Purpose
+
+This portfolio is designed to:
+- Elevate personal brand positioning
+- Showcase experience as a business asset
+- Convert visitors into potential clients or partners
+
+---
+
+## 🛠 Tech Stack
+
+- Next.js
+- Tailwind CSS
+- Framer Motion
+- Three.js (React Three Fiber)
+
+---
+
+## 🚀 Getting Started
+
+```bash
+npm install
+npm run dev
